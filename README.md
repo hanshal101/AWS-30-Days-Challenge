@@ -29,4 +29,4 @@
 
   <h3>Challenge Notes by Day:</h3>
   <ul>
-    <li><a href="./Day-0/Notes.md">Day 0 - Introduction to Cloud and AWS</a></li>
+    <li><a href="./Day-0/Notes.html">Day 0 - Introduction to Cloud and AWS</a></li>
