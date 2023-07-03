@@ -1,4 +1,3 @@
-# AWS-30-Days-Challenge
 <p>Welcome to the 30-Day AWS DevOps Challenge! This repository contains the resources and challenges for a month-long journey of exploring AWS services and their application in DevOps practices. Each day, you'll find a new challenge and accompanying notes file in the respective day's folder.</p>
 <br>
 
