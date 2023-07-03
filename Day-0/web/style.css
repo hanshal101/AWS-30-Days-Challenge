@@ -60,3 +60,12 @@ a {
 a:hover {
   text-decoration: underline;
 }
+img{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  height: 50px;
+  width: 90px;
+  padding-top: 7px;
+} 
